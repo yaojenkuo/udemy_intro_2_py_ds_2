@@ -1,7 +1,6 @@
-# 在這裡寫出您的答案，印出類似下方的輸出
+# BMI 計算機（解答）
 my_weight = input("請輸入您的體重（kg）：")
 my_height = input("請輸入您的身高（cm）：")
-
 my_weight = float(my_weight)
 my_height = float(my_height)
 my_bmi = my_weight / (my_height/100)**2
